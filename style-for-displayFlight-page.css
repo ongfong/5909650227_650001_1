@@ -1,0 +1,15 @@
+th.highlight {
+        font-weight: bold;
+        color: red;
+        font-size: 30px;
+    }
+ .dataTables_paginate {
+    margin-top: 50px;
+    position: absolute;
+    text-align: right;
+    left: 45%;
+}
+tr{
+	background-color: #9999FF;
+
+}
